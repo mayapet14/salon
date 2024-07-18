@@ -1,0 +1,16 @@
+{
+  "dates": [
+    {
+      "day": "Friday",
+      "time": "12:00pm, 1:30pm"
+    },
+    {
+      "day": "Saturday",
+      "time": "1:00pm, 3:00pm"
+    },
+    {
+      "day": "Sunday",
+      "time": "4:15pm"
+    }
+  ]
+}
