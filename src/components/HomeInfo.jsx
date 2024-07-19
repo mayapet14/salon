@@ -11,7 +11,7 @@ export default function HomeInfo() {
           Welcome to Maya's Salon. Discover blonde, brunette, or a pop of color.
           Our expert stylists are dedicated to helping you explore a world of
           possibilities. Each visit begins with a personalized consultation to
-          enhance your natural beauty.
+          enhance your natural beauty. Test.
         </p>
         <div class="homeimgcontainer">
           <img
