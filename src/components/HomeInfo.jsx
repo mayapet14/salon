@@ -6,7 +6,7 @@ export default function HomeInfo() {
   return (
     <>
       <section class="homesection">
-        <h1>Maya's Salon</h1>
+        <h1 class="titlesalon">Maya's Salon</h1>
         <p>
           Welcome to Maya's Salon. Discover blonde, brunette, or a pop of color.
           Our expert stylists are dedicated to helping you explore a world of
